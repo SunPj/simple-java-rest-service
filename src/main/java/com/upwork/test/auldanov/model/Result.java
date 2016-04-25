@@ -1,7 +1,7 @@
 package com.upwork.test.auldanov.model;
 
 /**
- * Created by kraken on 4/25/16.
+ * DTO for REST model
  */
 public class Result<T> {
     private final T result;
